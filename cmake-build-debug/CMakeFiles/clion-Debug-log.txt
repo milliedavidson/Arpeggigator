@@ -1,0 +1,14 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/millie/CLionProjects/Arpeggigator -B /Users/millie/CLionProjects/Arpeggigator/cmake-build-debug
+-- [SMTG] Check C++ compiler
+-- [SMTG] Building with Xcode version: 14.3.1
+-- [SMTG] SMTG_VSTGUI_SOURCE_DIR is set to: /Users/millie/VST_SDK/vst3sdk/vstgui4
+-- VSTGUI will use the Expat library at /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/lib/libexpat.tbd
+-- VSTGUI will use the Expat header found in /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include
+-- [SMTG] SMTG_AAX_SDK_PATH is not set. If you need it, please download the AAX SDK!
+-- Could NOT find LIBJACK (missing: LIBJACK_LIBRARIES LIBJACK_INCLUDE_DIR) 
+-- [SMTG] Setup running moduleinfotool for Arpeggigator
+-- [SMTG] Setup running validator for Arpeggigator
+-- [SMTG] SMTG_PLUGIN_TARGET_PATH is set to: /Users/millie/Library/Audio/Plug-Ins/VST3
+-- Configuring done (0.9s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/millie/CLionProjects/Arpeggigator/cmake-build-debug

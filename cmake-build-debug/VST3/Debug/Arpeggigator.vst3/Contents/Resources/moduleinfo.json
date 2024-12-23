@@ -1,0 +1,51 @@
+{
+  "Name": "Arpeggigator",
+  "Version": "1.0.0.0",
+  "Factory Info": {
+    "Vendor": "Maximum Displacement",
+    "URL": "",
+    "E-Mail": "mailto:",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "C5E57F2CE4C8521993EF687D2F2A49EA",
+      "Category": "Audio Module Class",
+      "Name": "Arpeggigator",
+      "Vendor": "Maximum Displacement",
+      "Version": "1.0.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 1,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+        {
+          "Scale Factor": 2,
+          "Path": "Contents/Resources/Snapshots/C5E57F2CE4C8521993EF687D2F2A49EA_snapshot_2.0x.png",
+        },
+        {
+          "Scale Factor": 1,
+          "Path": "Contents/Resources/Snapshots/C5E57F2CE4C8521993EF687D2F2A49EA_snapshot.png",
+        },
+      ],
+    },
+    {
+      "CID": "A32E55485D765316BB23292D0EA8E7D8",
+      "Category": "Component Controller Class",
+      "Name": "ArpeggigatorController",
+      "Vendor": "Maximum Displacement",
+      "Version": "1.0.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}

@@ -1,0 +1,432 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/templates/projectversion.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/MacOSXBundleInfo.plist.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_VST3_SDK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_Global.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_DetectPlatform.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_ConfigureCmakeGenerator.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_ExportedSymbols.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddVST3Library.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddSMTGLibrary.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_UniversalBinary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_CodeSign.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_SetDebugExecutable.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddCommonOptions.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_Platform_Windows.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_Bundle.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_ExportedSymbols.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_PrefixHeader.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_PlatformIOS.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_PlatformToolset.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_CoreAudioSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AAXSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_VstGuiSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_UniversalBinary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddVST3Options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_SetupVST3LibraryDefaultPath.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddCommonOptions.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_Platform_Windows.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_FindJack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_CustomModuleTarget.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/cmake/modules/vstgui_init.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/lib/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/uidescription/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindEXPAT.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/standalone/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/standalone/cmake/modules/vstgui_add_executable.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/pluginterfaces/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/base/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddSubDirectories.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/audiohost/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/editorhost/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/inspectorapp/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/validator/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-utilities/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/cmake/modules/SMTG_AddSubDirectories.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/millie/CLionProjects/Arpeggigator/cmake-build-debug",
+		"source" : "/Users/millie/CLionProjects/Arpeggigator"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

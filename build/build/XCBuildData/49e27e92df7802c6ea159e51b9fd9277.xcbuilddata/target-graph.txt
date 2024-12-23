@@ -1,0 +1,43 @@
+Target dependency graph (12 targets)
+vstgui in Arpeggigator, no dependencies
+vstgui_uidescription in Arpeggigator, depends on:
+vstgui in Arpeggigator (explicit)
+base in Arpeggigator, no dependencies
+vstgui_support in Arpeggigator, depends on:
+vstgui in Arpeggigator (explicit)
+vstgui_uidescription in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+pluginterfaces in Arpeggigator, no dependencies
+sdk_common in Arpeggigator, depends on:
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk in Arpeggigator, depends on:
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk_common in Arpeggigator (explicit)
+sdk_hosting in Arpeggigator, depends on:
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk_common in Arpeggigator (explicit)
+validator in Arpeggigator, depends on:
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk_common in Arpeggigator (explicit)
+sdk_hosting in Arpeggigator (explicit)
+moduleinfotool in Arpeggigator, depends on:
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk_common in Arpeggigator (explicit)
+sdk_hosting in Arpeggigator (explicit)
+ZERO_CHECK in Arpeggigator, no dependencies
+Arpeggigator in Arpeggigator, depends on:
+vstgui_support in Arpeggigator (explicit)
+vstgui in Arpeggigator (explicit)
+vstgui_uidescription in Arpeggigator (explicit)
+pluginterfaces in Arpeggigator (explicit)
+base in Arpeggigator (explicit)
+sdk_common in Arpeggigator (explicit)
+sdk in Arpeggigator (explicit)
+validator in Arpeggigator (explicit)
+moduleinfotool in Arpeggigator (explicit)
+ZERO_CHECK in Arpeggigator (explicit)

@@ -1,0 +1,493 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "vst3sdk",
+					"childIndexes" : 
+					[
+						2,
+						7,
+						8,
+						9,
+						10,
+						11,
+						16
+					],
+					"jsonFile" : "directory-vst3sdk-Debug-e9ee372bfa73061f58bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						12
+					]
+				},
+				{
+					"build" : "vst3sdk/VSTGUI.build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-vst3sdk.VSTGUI.build-Debug-7a0bb430c453cab46060.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/vstgui4"
+				},
+				{
+					"build" : "vst3sdk/VSTGUI.build/vstgui",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-vst3sdk.VSTGUI.build.vstgui-Debug-8178d05f3718dd02ec0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui"
+				},
+				{
+					"build" : "vst3sdk/VSTGUI.build/vstgui/lib",
+					"jsonFile" : "directory-vst3sdk.VSTGUI.build.vstgui.lib-Debug-de87d3656ecdf4728e92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/lib",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "vst3sdk/VSTGUI.build/vstgui/uidescription",
+					"jsonFile" : "directory-vst3sdk.VSTGUI.build.vstgui.uidescription-Debug-029565083cb9d4f59f4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/uidescription",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "vst3sdk/VSTGUI.build/vstgui/standalone",
+					"jsonFile" : "directory-vst3sdk.VSTGUI.build.vstgui.standalone-Debug-10ec8b3819e7d0ba07d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/vstgui4/vstgui/standalone",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "vst3sdk/pluginterfaces",
+					"jsonFile" : "directory-vst3sdk.pluginterfaces-Debug-6addda142003331a2e0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/pluginterfaces",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "vst3sdk/base",
+					"jsonFile" : "directory-vst3sdk.base-Debug-38e8dfb7d0208db7433e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/base",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "vst3sdk/public.sdk",
+					"jsonFile" : "directory-vst3sdk.public.sdk-Debug-9ad0e143e6049bb8b647.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "vst3sdk/public.sdk/source/vst/interappaudio",
+					"jsonFile" : "directory-vst3sdk.public.sdk.source.vst.interappaudio-Debug-00c198f24806fd6523ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/source/vst/interappaudio"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-hosting",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15
+					],
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-hosting-Debug-5f0e847badcde0adbacd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-hosting/audiohost",
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-hosting.audiohost-Debug-34296e5ac757532563d5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/audiohost"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-hosting/editorhost",
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-hosting.editorhost-Debug-1fde8caf0789a4e0c6e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/editorhost"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-hosting/inspectorapp",
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-hosting.inspectorapp-Debug-5daeb3fe81779ab953e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/inspectorapp"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-hosting/validator",
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-hosting.validator-Debug-5e69fd648debb18cb8fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-hosting/validator",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-utilities",
+					"childIndexes" : 
+					[
+						17
+					],
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-utilities-Debug-007614ad90d0586bfa57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-utilities"
+				},
+				{
+					"build" : "vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+					"jsonFile" : "directory-vst3sdk.public.sdk.samples.vst-utilities.moduleinfotool-Debug-6f2aa7672b4168b8aae9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.0"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 1,
+					"source" : "/Users/millie/VST_SDK/vst3sdk/public.sdk/samples/vst-utilities/moduleinfotool",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Arpeggigator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					],
+					"name" : "vstsdk",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "smtg_pluginterfaces",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "smtg_base",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "smtg_public_sdk",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arpeggigator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arpeggigator-Debug-a908f05c3a44e82460c3.json",
+					"name" : "Arpeggigator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "base::@0735951bbe0919745031",
+					"jsonFile" : "target-base-Debug-ee890ae1b7399f479025.json",
+					"name" : "base",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cmake_VST_modules::@84df0381bbe72cab14f2",
+					"jsonFile" : "target-cmake_VST_modules-Debug-fb22cfdae1134aacbc84.json",
+					"name" : "cmake_VST_modules",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cmake_modules::@84df0381bbe72cab14f2",
+					"jsonFile" : "target-cmake_modules-Debug-b2251b689154ef0f93e5.json",
+					"name" : "cmake_modules",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "moduleinfotool::@0ccd92616ad435ec5cfd",
+					"jsonFile" : "target-moduleinfotool-Debug-fc8faab5192c9f19770f.json",
+					"name" : "moduleinfotool",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "pluginterfaces::@0e710dd5baaf1ba5f04c",
+					"jsonFile" : "target-pluginterfaces-Debug-d339b62c3040c26c2b88.json",
+					"name" : "pluginterfaces",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sdk::@cd6fd055087e8e969d30",
+					"jsonFile" : "target-sdk-Debug-8d0dbc667339cfde8857.json",
+					"name" : "sdk",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sdk_common::@cd6fd055087e8e969d30",
+					"jsonFile" : "target-sdk_common-Debug-5aae9a68b50aa3a3be90.json",
+					"name" : "sdk_common",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sdk_hosting::@cd6fd055087e8e969d30",
+					"jsonFile" : "target-sdk_hosting-Debug-9b1479f7edacd07681f6.json",
+					"name" : "sdk_hosting",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "validator::@cb6a5f45744856ded658",
+					"jsonFile" : "target-validator-Debug-75f6d393994b34922576.json",
+					"name" : "validator",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "vstgui::@54a0746fa10a39fdb5d0",
+					"jsonFile" : "target-vstgui-Debug-067f04b35538296986eb.json",
+					"name" : "vstgui",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "vstgui_standalone::@ba128293594f8ecb9757",
+					"jsonFile" : "target-vstgui_standalone-Debug-20455ef6186063cce55b.json",
+					"name" : "vstgui_standalone",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "vstgui_support::@84df0381bbe72cab14f2",
+					"jsonFile" : "target-vstgui_support-Debug-5eeacaa2c4c7895f01b4.json",
+					"name" : "vstgui_support",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "vstgui_uidescription::@119a8cbf1440fab7ca2b",
+					"jsonFile" : "target-vstgui_uidescription-Debug-72f3559da10c25d76265.json",
+					"name" : "vstgui_uidescription",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/millie/CLionProjects/Arpeggigator/cmake-build-debug",
+		"source" : "/Users/millie/CLionProjects/Arpeggigator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
